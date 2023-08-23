@@ -1,0 +1,12 @@
+{
+  "shops": [
+    {
+      "nameShop": "Khanh Shop",
+      "address": "Ha Noi",
+      "phoneNum": "0123456789",
+      "statusShop": true,
+      "logoShop": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FAssReact-6a699beb-5b0d-470b-aadb-382639c4fd15/ImagePicker/35dbeb50-608e-4c03-b648-22651a985685.jpeg",
+      "id": 1
+    }
+  ]
+}
